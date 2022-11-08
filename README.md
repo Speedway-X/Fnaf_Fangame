@@ -1,4 +1,5 @@
-# Fnaf_FangameEspañol:
+# Fnaf_Fangame
+Español:
 Primera versión de este fangame. Aún hay muchas cosas por pulir y mejorar. La jugabilidad  del jugador está completa, pudiendo mirar a distintas direcciones, encender su linterna y mirar una cámara.
 
 En cuanto los robots (animatrónicos), solo hay uno. Se tenia planeado hacer cuatro pero por cuestión de tiempo no se pudo. El único enemigo que hay, aparecerá en un lado aleatorio y hay que ahuyentarlo con la linterna.
